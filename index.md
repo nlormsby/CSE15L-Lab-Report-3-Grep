@@ -20,12 +20,12 @@ December 1999. The nonprofit operation pays the debts of attorneys
 keep lawyers around after they got a few years of experience. Not  
 "It really had become an economic impossibility to take these      
 When she stepped down, she had time to notice what was happening   
-said. "It had gone from being an economic sacrifice as it was in myday to an economic impossibility. ... The whole system has
+said. "It had gone from being an economic sacrifice as it was in
 canals and rat bite fever, a nonfatal malady that particularly     
 affects children. Mintie noticed that health-care professionals    
 Her work was noticed by Oprah Winfrey, who invited her on the TV   
 Award" from Oprah's Angel Network, a nonprofit organization that   
-money has gone to her recipients -- none was spent on overhead. Shepiano daily at the 6:30 a.m. Mass.
+money has gone to her recipients -- none was spent on overhead.
 Fourteen people now receive money from Uncommon Good. Debt
 ```
 ```
