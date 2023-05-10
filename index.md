@@ -12,15 +12,15 @@ Found on:  [https://man7.org/linux/man-pages/man1/grep.1.html](https://man7.org/
   
 ## grep -i
 ```
-$ grep -i "no" ./technical/government/Media/A_helping_hand.txt  
+$ grep -i "no" ./technical/government/Media/A_helping_hand.txt
 knowing she wanted to represent the poor. She graduated in 1995
-... There was no way I could make that payment. I barely make it
+... There was no way I could make that payment. I barely make it   
 now with my regular bills."
 December 1999. The nonprofit operation pays the debts of attorneys 
 keep lawyers around after they got a few years of experience. Not  
 "It really had become an economic impossibility to take these      
 When she stepped down, she had time to notice what was happening   
-said. "It had gone from being an economic sacrifice as it was in myday to an economic impossibility.
+said. "It had gone from being an economic sacrifice as it was in myday to an economic impossibility. ... The whole system has
 canals and rat bite fever, a nonfatal malady that particularly     
 affects children. Mintie noticed that health-care professionals    
 Her work was noticed by Oprah Winfrey, who invited her on the TV   
